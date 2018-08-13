@@ -21,6 +21,7 @@
 #include <netlink-private/types.h>
 #include <dlfcn.h>
 #include <pthread.h>
+#include <errno.h>
 
 #include "wifi_hal.h"
 #include "common.h"
